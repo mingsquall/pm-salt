@@ -42,4 +42,6 @@ But if the salt loses its saltiness, how can it be made salty again?
 
     - 文章链接：https://mp.weixin.qq.com/s/t8tU_VFPsju_5BMsBLNL8w
 
+    - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2001%20Python%E5%88%86%E6%9E%90%E7%91%9E%E5%B9%B8%E4%B8%8E%E6%98%9F%E5%B7%B4%E5%85%8B/Luckin%20%26%20Starbucks%20Analysis.ipynb
+
 
