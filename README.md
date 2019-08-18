@@ -44,4 +44,16 @@ But if the salt loses its saltiness, how can it be made salty again?
 
     - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2001%20Python%E5%88%86%E6%9E%90%E7%91%9E%E5%B9%B8%E4%B8%8E%E6%98%9F%E5%B7%B4%E5%85%8B/Luckin%20%26%20Starbucks%20Analysis.ipynb
 
+2. 数据产品经理全方位解读
+
+    - 什么数据？
+        - 爬取某招聘网站职位基本信息：技能、城市、薪资等
+        
+    - 怎么观察？
+        - 观察现有职位的规模、招聘方的需求、求职者应聘要求，并对薪资的相关性进行分析。与此同时，将数据产品经理与数据分析师进行交叉对比，观察有何不同之处？
+
+    - 文章链接：待补充
+
+    - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2002%20%E6%95%B0%E6%8D%AE%E4%BA%A7%E5%93%81%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%81%8C%E4%BD%8D%E5%88%86%E6%9E%90/Data%20Product%20%26%20Data%20Analysis.ipynb
+
 
