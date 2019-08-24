@@ -52,7 +52,7 @@ But if the salt loses its saltiness, how can it be made salty again?
     - 怎么观察？
         - 观察现有职位的规模、招聘方的需求、求职者应聘要求，并对薪资的相关性进行分析。与此同时，将数据产品经理与数据分析师进行交叉对比，观察有何不同之处？
 
-    - 文章链接：待补充
+    - 文章链接：https://mp.weixin.qq.com/s?__biz=MzU3MDY4Mzc1NQ==&mid=2247483719&idx=1&sn=4df660b848a67c8785450101790da636&chksm=fceaf943cb9d70553a0320969cdeedf9e372cf8ec5e40e492d82ddd6673f678d098527bd0908&token=618235839&lang=zh_CN#rd
 
     - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2002%20%E6%95%B0%E6%8D%AE%E4%BA%A7%E5%93%81%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%81%8C%E4%BD%8D%E5%88%86%E6%9E%90/Data%20Product%20%26%20Data%20Analysis.ipynb
 
