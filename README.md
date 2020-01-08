@@ -57,3 +57,16 @@ But if the salt loses its saltiness, how can it be made salty again?
     - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2002%20%E6%95%B0%E6%8D%AE%E4%BA%A7%E5%93%81%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%81%8C%E4%BD%8D%E5%88%86%E6%9E%90/Data%20Product%20%26%20Data%20Analysis.ipynb
 
 
+3. 中国米其林餐厅数据餐厅
+
+    - 什么数据？
+        - 爬取中国米其林指南App的数据，包括地理位置信息、价格信息等
+        
+    - 怎么观察？
+        - 观察中国米其林餐厅分布、以及米其林餐厅价格
+
+    - 文章链接：待补充
+
+    - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2003%20%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E6%95%B0%E6%8D%AE%E6%8E%A2%E7%B4%A2/Michelin%20Analysis.ipynb
+
+
