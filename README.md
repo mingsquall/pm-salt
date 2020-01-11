@@ -65,7 +65,7 @@ But if the salt loses its saltiness, how can it be made salty again?
     - 怎么观察？
         - 观察中国米其林餐厅分布、以及米其林餐厅价格
 
-    - 文章链接：待补充
+    - 文章链接：https://mp.weixin.qq.com/s/aDG2Hx3-mNohZEstuxHwsA
 
     - JupyterNotebook：https://nbviewer.jupyter.org/github/mingsquall/pm-salt/blob/master/Vol%2003%20%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E6%95%B0%E6%8D%AE%E6%8E%A2%E7%B4%A2/Michelin%20Analysis.ipynb
 
